@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+    
+}
+
+p{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px 20px 20px 20px;
+}
